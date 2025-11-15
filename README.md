@@ -6,3 +6,8 @@ Projects I have either designed or acquired from another source with the intende
 - Vitis HLS
 - Yosys
 - Verilator
+
+## Current Projects
+- FIFO Memory
+- FIR Filter
+- RISC-V Single-Cycle Processor
