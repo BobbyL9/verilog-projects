@@ -11,3 +11,4 @@ Projects I have either designed or acquired from another source with the intende
 - FIFO Memory
 - FIR Filter
 - RISC-V Single-Cycle Processor
+- Double Flip-Flop Clock Domain Crossing Design
